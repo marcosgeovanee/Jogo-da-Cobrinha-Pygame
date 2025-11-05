@@ -18,13 +18,13 @@ Este projeto recria o clássico **Snake Game**, onde o objetivo é movimentar a 
 
 ---
 
-#📦 Instalação & Execução  
+## 📦 Instalação & Execução  
 
-##🔧 Pré-requisitos  
+### 🔧 Pré-requisitos  
 - Python 3.x instalado  
 - Biblioteca Pygame (`pip install pygame`)
 
-##▶️ Rodar o jogo
+### ▶️ Rodar o jogo
 
 ```bash
 git clone https://github.com/marcosgeovanee/Jogo-da-Cobrinha-Pygame.git
@@ -32,7 +32,6 @@ cd Jogo-da-Cobrinha-Pygame
 pip install pygame
 python Snake Game.py
 ```
-Observação: o arquivo principal do jogo se chama Snake Game.py
 
 📂 Arquivos do Projeto
 O repositório contém:
@@ -41,7 +40,6 @@ Snake Game.py — código principal do jogo
 Arquivos de imagens (.png)
 Arquivos de áudio (.ogg)
 Fonte do jogo (.ttf)
-
 
 🎯 Objetivos de Aprendizado
 Estruturação de jogos com Pygame
