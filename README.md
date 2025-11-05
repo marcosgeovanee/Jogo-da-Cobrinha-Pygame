@@ -33,14 +33,14 @@ pip install pygame
 python Snake Game.py
 ```
 
-# 📂 Arquivos do Projeto
+## 📂 Arquivos do Projeto
 O repositório contém:
 - Snake Game.py — código principal do jogo
 - Arquivos de imagens (.png)
 - Arquivos de áudio (.ogg)
 - Fonte do jogo (.ttf)
 
-# 🎯 Objetivos de Aprendizado
+## 🎯 Objetivos de Aprendizado
 - Estruturação de jogos com Pygame
 - Manipulação de coordenadas no plano cartesiano
 - Controle da lógica de movimento e crescimento
@@ -48,16 +48,16 @@ O repositório contém:
 - Sistema de sons e eventos no Pygame
 - Uso básico de Git e GitHub
 
-# 🤝 Contribuições
+## 🤝 Contribuições
 Sugestões e melhorias são bem-vindas!
 Abra uma issue ou mande um pull request.
 
 Se gostou do projeto, deixe uma ⭐ no GitHub!
 
-# 👨‍💻 Autor
-Marcos Geovane Araújo Santos.
+## 👨‍💻 Autor
+Marcos Geovane Araújo Santos  
 Estudante de Ciência da Computação — entusiasta de jogos e programação.
 
-# 📄 Licença
-Livre uso educacional e estudo.
+## 📄 Licença
+Livre uso educacional e estudo  
 Mantenha os créditos ao autor.
