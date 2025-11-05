@@ -30,7 +30,7 @@ Este projeto recria o clássico **Snake Game**, onde o objetivo é movimentar a 
 git clone https://github.com/marcosgeovanee/Jogo-da-Cobrinha-Pygame.git
 cd Jogo-da-Cobrinha-Pygame
 pip install pygame
-python Snake Game.py
+python "Snake Game.py"
 ```
 
 ## 📂 Arquivos do Projeto
