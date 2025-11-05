@@ -55,9 +55,9 @@ Abra uma issue ou mande um pull request.
 Se gostou do projeto, deixe uma ⭐ no GitHub!
 
 # 👨‍💻 Autor
-Marcos Geovane Araújo Santos
+Marcos Geovane Araújo Santos.
 Estudante de Ciência da Computação — entusiasta de jogos e programação.
 
 # 📄 Licença
-Livre uso educacional e estudo
+Livre uso educacional e estudo.
 Mantenha os créditos ao autor.
