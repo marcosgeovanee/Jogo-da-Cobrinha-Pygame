@@ -1,10 +1,11 @@
+# Projeto Final de APC (Algoritmos e Programação de Computadores) Ciência da Computação - 2025.1 - 1º periodo
 # 🐍 Jogo da Cobrinha — Python & Pygame  
 > Projeto desenvolvido para estudo de lógica de programação e desenvolvimento de jogos utilizando Python e Pygame.
 
 ---
 
 ## 🚀 Visão Geral  
-Este projeto recria o clássico **Snake Game**, onde o objetivo é movimentar a cobrinha pela tela, comer os alimentos e crescer sem bater nas paredes ou no próprio corpo.
+Este projeto recria o clássico **Snake Game**, onde o objetivo é movimentar a cobrinha pela tela, comer os alimentos e crescer sem bater nas paredes ou no próprio corpo. Criado com o intuito de ser avaliado como projeto final da matéria de Algoritmos e Programação de Computadores na Universidade Federal de Alagoas - Arapiraca.
 
 ---
 
@@ -46,7 +47,6 @@ O repositório contém:
 - Controle da lógica de movimento e crescimento
 - Tratamento de colisões
 - Sistema de sons e eventos no Pygame
-- Uso básico de Git e GitHub
 
 ## 🤝 Contribuições
 Sugestões e melhorias são bem-vindas!
@@ -54,10 +54,13 @@ Abra uma issue ou mande um pull request.
 
 Se gostou do projeto, deixe uma ⭐ no GitHub!
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 Marcos Geovane Araújo Santos  
-Estudante de Ciência da Computação — entusiasta de jogos e programação.
+Maciel dos Santos Lino  
+Cristhian Lucas Bezerra dos Santo  
+
+Estudantes de Ciência da Computação - UFAL.
 
 ## 📄 Licença
 Livre uso educacional e estudo  
-Mantenha os créditos ao autor.
+Mantenha os créditos aos autores.
