@@ -28,7 +28,7 @@ Este projeto recria o clássico **Snake Game**, onde o objetivo é movimentar a 
 ### ▶️ Rodar o jogo
 
 ```bash
-git clone https://github.com/marcosgeovanee/Jogo-da-Cobrinha-Pygame.git
+git clone https://github.com/MarcosGE0/Jogo-da-Cobrinha-Pygame.git
 cd Jogo-da-Cobrinha-Pygame
 pip install pygame
 python "Snake Game.py"
