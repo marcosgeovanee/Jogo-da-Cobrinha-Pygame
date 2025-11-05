@@ -1,4 +1,4 @@
-# Projeto Final de APC (Algoritmos e Programação de Computadores) Ciência da Computação - 2025.1 - 1º periodo
+# Projeto Final de APC (Algoritmos e Programação de Computadores) Ciência da Computação - UFAL - 2025.1 - 1º periodo
 # 🐍 Jogo da Cobrinha — Python & Pygame  
 > Projeto desenvolvido para estudo de lógica de programação e desenvolvimento de jogos utilizando Python e Pygame.
 
@@ -62,5 +62,4 @@ Cristhian Lucas Bezerra dos Santo
 Estudantes de Ciência da Computação - UFAL.
 
 ## 📄 Licença
-Livre uso educacional e estudo  
-Mantenha os créditos aos autores.
+Livre uso educacional e estudo.
